@@ -1,5 +1,6 @@
 {
   "name": "xam1dullo.github.io",
+"author": "Jane Doe",
   "version": "1.0.0",
   "description": "Website",
   "main": "index.js",
@@ -15,7 +16,6 @@
     "css",
     "javaScript"
   ],
-  "author": "khamidullo khudoyberdiev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xam1dullo/xam1dullo.github.io/issues"
